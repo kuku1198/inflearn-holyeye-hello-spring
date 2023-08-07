@@ -1,4 +1,4 @@
-package inflearnholyeyehellospring.inflearnholyeyehellospring.controller;
+package hello.inflearnholyeyehellospring.controller;
 
 
 import org.springframework.stereotype.Controller;
